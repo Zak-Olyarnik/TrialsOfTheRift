@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Goal
+  - InteractCollider
+  - Rift
+  - Portal
+  - Spell
+  - Crystal
+  - Enemy
+  - Potato
+  - Wall
+  - ParryShield
+  - Puck
+  - HockeyGoal
+  - Floor
+  - Undefined
+  - Rune
+  - RiftBoss
+  - Deathbolt
+  - OutofBounds
+  - ScoreTarget
+  - HAT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Rift
+  - Shot
+  - Interact
+  - Arena
+  - Floor
+  - Puck
+  - Deathbolt
+  - Player
+  - RiftBoss
+  - MagicMissile
+  - Flag
+  - Wall
+  - RedShot
+  - BlueShot
+  - RedMM
+  - BlueMM
+  - OutofBounds
+  - Hologram
+  - Scoring
+  - BACK_UI
+  - BACKGROUND_SCENE
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlayerUI
+    uniqueID: 1336096683
+    locked: 0
